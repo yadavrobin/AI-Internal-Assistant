@@ -16,6 +16,13 @@ A comprehensive enterprise knowledge management and AI chat system built with Re
 - **Vector Search**: Advanced semantic search using Qdrant vector database
 - **PostgreSQL Search**: Full-text search for immediate knowledge retrieval
 
+### 🔗 Confluence Integration
+- **Automatic Import**: Sync Confluence pages and spaces automatically
+- **Real-time Updates**: Keep documentation synchronized with Confluence changes
+- **Space Management**: Import specific Confluence spaces or entire instances
+- **Metadata Preservation**: Maintain page hierarchy, labels, and authorship information
+- **Content Processing**: Convert Confluence markup to searchable text format
+- 
 ### 👥 User Management
 - **Google OAuth Authentication**: Secure login with Google accounts
 - **Role-Based Access**: Admin and user roles with different permissions
